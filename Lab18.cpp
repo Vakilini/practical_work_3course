@@ -1,6 +1,8 @@
 ﻿#include <iostream>
 using namespace std;
 //Глобальные переменные и массивы
+//12
+//12
 short questions = 15;
 short life = 3;
 short prompt = 15;
